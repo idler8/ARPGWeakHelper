@@ -12,9 +12,9 @@
 
 ### 三、说明
 
-当前最新版 0530，下载说明
+当前最新版 0530，下载说明  
 https://www.bilibili.com/video/BV1847nzTE2n  
-六一体验版 0528，下载说明与部分使用教程
+六一体验版 0528，下载说明与部分使用教程  
 https://www.bilibili.com/video/BV1nojRzDEmw  
-首个体验版 0521，下载说明与基本使用教程
+首个体验版 0521，下载说明与基本使用教程  
 https://www.bilibili.com/video/BV14XJezCEeH
